@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vg2OJb/ZCQ3KOw+YmqqW5GpnMcqyV4tpV6mZVf2OeklkXX3sHvbTnL2BDbc8KW6px71lFpEKelBaMJDXe/Z+lQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maulana\\source\\repos\\PemesananTiketWisata\\PemesananTiketWisata\\PemesananTiketWisata.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maulana\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

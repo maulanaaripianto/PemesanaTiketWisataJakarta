@@ -1,0 +1,15 @@
+C:\Users\Maulana\source\repos\PemesananTiketWisata\PemesananTiketWisata\obj\Debug\netcoreapp3.1\PemesananTiketWisata.csproj.AssemblyReference.cache
+C:\Users\Maulana\source\repos\PemesananTiketWisata\PemesananTiketWisata\obj\Debug\netcoreapp3.1\PemesananTiketWisata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maulana\source\repos\PemesananTiketWisata\PemesananTiketWisata\obj\Debug\netcoreapp3.1\PemesananTiketWisata.AssemblyInfoInputs.cache
+C:\Users\Maulana\source\repos\PemesananTiketWisata\PemesananTiketWisata\obj\Debug\netcoreapp3.1\PemesananTiketWisata.AssemblyInfo.cs
+C:\Users\Maulana\source\repos\PemesananTiketWisata\PemesananTiketWisata\obj\Debug\netcoreapp3.1\PemesananTiketWisata.csproj.CoreCompileInputs.cache
+C:\Users\Maulana\source\repos\PemesananTiketWisata\PemesananTiketWisata\bin\Debug\netcoreapp3.1\PemesananTiketWisata.exe
+C:\Users\Maulana\source\repos\PemesananTiketWisata\PemesananTiketWisata\bin\Debug\netcoreapp3.1\PemesananTiketWisata.deps.json
+C:\Users\Maulana\source\repos\PemesananTiketWisata\PemesananTiketWisata\bin\Debug\netcoreapp3.1\PemesananTiketWisata.runtimeconfig.json
+C:\Users\Maulana\source\repos\PemesananTiketWisata\PemesananTiketWisata\bin\Debug\netcoreapp3.1\PemesananTiketWisata.runtimeconfig.dev.json
+C:\Users\Maulana\source\repos\PemesananTiketWisata\PemesananTiketWisata\bin\Debug\netcoreapp3.1\PemesananTiketWisata.dll
+C:\Users\Maulana\source\repos\PemesananTiketWisata\PemesananTiketWisata\bin\Debug\netcoreapp3.1\PemesananTiketWisata.pdb
+C:\Users\Maulana\source\repos\PemesananTiketWisata\PemesananTiketWisata\obj\Debug\netcoreapp3.1\PemesananTiketWisata.dll
+C:\Users\Maulana\source\repos\PemesananTiketWisata\PemesananTiketWisata\obj\Debug\netcoreapp3.1\PemesananTiketWisata.pdb
+C:\Users\Maulana\source\repos\PemesananTiketWisata\PemesananTiketWisata\obj\Debug\netcoreapp3.1\PemesananTiketWisata.genruntimeconfig.cache
+C:\Users\Maulana\source\repos\PemesananTiketWisata\PemesananTiketWisata\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
